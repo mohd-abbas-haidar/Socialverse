@@ -1,2 +1,2 @@
 # Socialverse
-A social networking website
+A social networking website made in MERN stack.
